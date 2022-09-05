@@ -20,3 +20,4 @@ def coach_answer_enhanced(your_message)
     return original
   end
 end
+
